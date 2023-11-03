@@ -1,5 +1,5 @@
 # Web-Scrapping-Restaurants-data
-# Gwalior Restaurants Data
+# Gwalior Restaurants Data : Extracted from sluurpy.in
 
  Scrapped the data from "https://www.sluurpy.in/gwalior/restaurants"
 
